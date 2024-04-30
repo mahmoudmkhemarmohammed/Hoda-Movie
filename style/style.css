@@ -521,8 +521,9 @@ body .details .similar {
     margin-bottom: 20px;
     cursor: pointer;
 }
-body .search {
+body > .movie-search {
     display: none;
     margin-top: 80px;
+    padding: 10px;
 }
 /* End Movie List */
