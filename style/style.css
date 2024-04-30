@@ -523,5 +523,6 @@ body .details .similar {
 }
 body .search {
     display: none;
+    margin-top: 80px;
 }
 /* End Movie List */
